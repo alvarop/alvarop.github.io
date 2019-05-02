@@ -20,6 +20,8 @@ Early on, I looked at using LoRa for radio communications, like the Curacao proj
 
 Since I had been working with BLE devices on other projects, the first board I made used the NRF52, which I was familiar with. The device worked, but it never made it past my workbench. The range wasn't great (duh!) and I lost interest in the project for some time.
 
+![First BLE Boards](/images/weather/ble-board.jpg)
+
 {% include image.html
             img="/images/weather/ble-board.jpg"
             title="First BLE Boards"
@@ -35,6 +37,8 @@ For the radio, I decided to go with [Xbee](https://www.digi.com/xbee) radios sin
 
 ## Nucleo Weather Breakout v0.1
 After playing with the Nucleo board and getting a mess of cables going, I made a PCB breakout board with the Xbee header and RJ11/14 plugs for the [wind and rain sensor assembly](https://www.argentdata.com/files/80422_datasheet.pdf), along with some I2C, UART, and analog pins broken out.
+
+![Weather Breakout v0.1](/images/weather/breakout-1.jpg)
 
 {% include image.html
             img="/images/weather/breakout-1.jpg"
