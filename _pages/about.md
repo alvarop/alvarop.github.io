@@ -3,13 +3,6 @@ permalink: /about/
 title: "About"
 categories: []
 tags: []
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _wp_page_template: page-fullwidth.php
-  sharing_disabled: '1'
-  dsq_thread_id: '615890991'
 ---
 
 Hi! My name is Alvaro. I'm an Electrical Engineer living in Sunnyvale, CA. My main interests include electronics, [watching movies][1], flying, photography(time-lapse and high-speed), and traveling. If you're interested, you can find my [resume here][9].
