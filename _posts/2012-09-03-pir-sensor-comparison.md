@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PIR Sensor Comparison
 categories:
 - projects
@@ -8,12 +7,6 @@ tags:
 - PIR
 - sensor
 - sparkfun
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  dsq_thread_id: '829195130'
 ---
 I recently started working on a project that <em>might</em> require some Passive Infra-red (PIR) sensors. <a href="http://www.sparkfun.com/">Sparkfun</a> had two different ones, so I figured I'd try them both.
 

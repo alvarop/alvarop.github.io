@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Quick Update!
 categories:
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/08/quick-update.html
-  dsq_thread_id: '943512051'
 ---
 {% include image.html
             img="/images/blgr/IMG_2408.jpg"

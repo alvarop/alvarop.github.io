@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Early Morning Update
 categories:
 - life
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/06/early-morning-update.html
-  dsq_thread_id: '1360759551'
 ---
 So I woke up around 4am and could not fall asleep. I'm bored.
 

@@ -1,15 +1,8 @@
 ---
-layout: post
 title: New Workbench!
 categories:
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  dsq_thread_id: '705239510'
-  _edit_last: '1'
 ---
 I finally decided to get a dedicated electronics workbench. I had been working on my computer desk until now, but it wasn't quite working out. The first problem was having to clean up my electronics gear all the time, so I could have space to work comfortably and have other stuff out. The second was that it's a glass desk, so I had to be really careful not to break it (No hammers!).
 

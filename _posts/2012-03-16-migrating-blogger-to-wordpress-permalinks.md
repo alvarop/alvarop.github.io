@@ -1,14 +1,7 @@
 ---
-layout: post
 title: Migrating Blogger to Wordpress Permalinks
 categories: []
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  dsq_thread_id: ''
-  _edit_last: '1'
 ---
 I recently migrated my blog from blogger to WordPress. The migration was extremely easy with the automatic importer in WordPress. The only problem is that every single link on the web is pointing to the blogger generated permalinks, which do not match the new WordPress ones.
 

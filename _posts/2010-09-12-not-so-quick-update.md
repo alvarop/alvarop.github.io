@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Not-so-Quick Update
 categories:
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/09/not-so-quick-update.html
-  dsq_thread_id: '641470884'
 ---
 I still haven’t written about my Svalbard trip. Thankfully, I took some notes while I was there, so I will not forget the important details by the time I do write it.
 

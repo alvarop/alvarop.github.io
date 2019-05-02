@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Last Day in Russia
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/last-day-in-russia.html
-  dsq_thread_id: '622910920'
 ---
 Today I took a train to St. Petersburg. I left around 8am and arrived around 11:30am.
 

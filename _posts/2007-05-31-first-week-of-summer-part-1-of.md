@@ -1,17 +1,8 @@
 ---
-layout: post
 title: First Week of Summer (Part 1 of ?)
 categories:
 - life
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/05/first-week-of-summer-part-1-of.html
-  dsq_thread_id: '946686929'
 ---
 Well, the first week of summer isn't quite over yet, but I needed to come up with a title for the post.
 

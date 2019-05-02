@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Suolijärvi
 categories:
 - finland
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/07/suolijarvi.html
-  dsq_thread_id: '639488781'
 ---
 
 ### June 24th

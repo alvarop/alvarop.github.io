@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Work, Finally!
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/work-finally.html
-  dsq_thread_id: '671632213'
 ---
 This morning, the sky was cloudy and the forecast said there was going to be rain throughout the day. I put on my jacket and went to school. After two hours or so, I looked out the window and the sky was blue and the sun was out. After Russian class, we went to some stores looking for a flag or something and later went to a museum with a lot of golden artifacts. They were mostly church related, like gold covered bibles, crosses, and other similar things.
 

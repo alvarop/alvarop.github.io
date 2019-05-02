@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Laser Turret Progress
 categories:
 - projects
@@ -8,14 +7,6 @@ tags:
 - laser
 - opencv
 - turret
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '429'
-  _wpas_done_all: '1'
-  dsq_thread_id: '2309046769'
 ---
 Over the past month, I’ve been working on a laser turret for the <a href="http://defconbots.org/">DefconBots</a> autonomous robot competition this Summer. I entered the same competition back in 2006 and enjoyed the experience, so I figured I’d give it another try. Since I am fairly comfortable wiring firmware, I plan on focusing on the mechanical aspects of this project, as well as the image processing (both of which I know little about.) It should be a fun project and great learning experience. Here is some of the progress I’ve made since I started:
 

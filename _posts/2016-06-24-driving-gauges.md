@@ -1,12 +1,8 @@
 ---
-layout: post
 title: Driving Analog Gauges with DAC
 categories:
 - projects
 tags: []
-status: publish
-type: post
-comments: true
 ---
 
 A few years ago, I bought a couple of these analog gauges(galvanometers) at the [electronics flea market][0]. Like many other things I buy, they ended up in a box stored away in the closet… Not too long ago, stumbled onto Alan Wolke's ([@AlanAtTek][1]) [video about panel meters][2]

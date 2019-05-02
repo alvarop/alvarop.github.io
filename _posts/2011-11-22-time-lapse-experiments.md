@@ -1,16 +1,7 @@
 ---
-layout: post
 title: Time-Lapse Experiments
 categories: []
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  dsq_thread_id: '625373303'
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2011/11/time-lapse-experiments.html
 ---
 I recently started experimenting some more with time-lapse videos while moving. I bought a suction cup mount for my DSLR and tested it out in my car.
 

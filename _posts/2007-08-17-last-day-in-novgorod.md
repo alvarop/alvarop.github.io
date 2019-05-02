@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Last Day in Novgorod
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/last-day-in-novgorod.html
-  dsq_thread_id: '622014206'
 ---
 Yesterday was my last day of work. Other than that, all I did was buy a few gifts for people.
 

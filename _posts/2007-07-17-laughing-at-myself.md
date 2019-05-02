@@ -1,16 +1,8 @@
 ---
-layout: post
 title: Laughing at Myself
 categories:
 - random
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/laughing-at-myself.html
 ---
 I don't usually start laughing in the middle of the street, but on some occasions, I just have to do it.<br />On a normal day, my alarm wakes me up at 6:50am, I shower, go on the computer, have breakfast, and then around 8am I go outside to the bus stop. Around 8:25am I get to school and classes start at 9am.
 

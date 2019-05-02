@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Last Full Sunday
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/last-full-sunday.html
-  dsq_thread_id: '623937392'
 ---
 Today I woke up fairly early, even thought I went to bed late. I spent some time on the computer while the rest of the family woke up. I didn't really do anything interesting. I listened to music, read some stuff, and relaxed. 
 

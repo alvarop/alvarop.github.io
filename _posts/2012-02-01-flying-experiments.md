@@ -1,19 +1,10 @@
 ---
-layout: post
 title: Flying Experiments
 categories:
 - life
 - random
 - time-lapse
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2012/01/flying-experiments.html
-  dsq_thread_id: '616894377'
 ---
 I managed to go flying last Friday after work. Since no one else was able to come along, I decided to do some experiments with the camera.
 

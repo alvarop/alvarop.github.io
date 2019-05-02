@@ -1,18 +1,9 @@
 ---
-layout: post
 title: First Week in Tampere
 categories:
 - finland
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/07/first-week-in-tampere.html
-  dsq_thread_id: '737678326'
 ---
 ### May 29th and 30th
 

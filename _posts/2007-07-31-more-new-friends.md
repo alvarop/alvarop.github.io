@@ -1,17 +1,9 @@
 ---
-layout: post
 title: More New Friends
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/more-new-friends.html
 ---
 This morning I was faced with the same problem as before, I wanted a 21 ruble water bottle but only had a 500 bill. Instead of making the lady have to go get tons of change, I bought a bottle of vodka and a water bottle so that I would get less change. I wanted to get some Russian vodka to take home as a gift, so it really was not a waste of money, not to mention it is very cheap here.
 

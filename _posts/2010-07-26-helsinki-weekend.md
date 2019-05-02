@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Helsinki Weekend
 categories:
 - finland
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/07/helsinki-weekend.html
-  dsq_thread_id: '760784582'
 ---
 {% include image.html
             img="/images/flckr/4826812111_13bf7599d8_b.jpg"

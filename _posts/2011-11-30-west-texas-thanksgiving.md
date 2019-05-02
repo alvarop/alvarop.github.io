@@ -1,19 +1,10 @@
 ---
-layout: post
 title: West Texas Thanksgiving
 categories:
 - projects
 - time-lapse
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2011/11/west-texas-thanksgiving.html
-  dsq_thread_id: '640886196'
 ---
 So I had a few days off work for thanksgiving... Most people usually visit their family during that time, but due to a late change of plans, I ended up doing something else.
 

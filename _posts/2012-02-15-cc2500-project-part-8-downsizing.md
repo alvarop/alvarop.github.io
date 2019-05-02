@@ -1,19 +1,9 @@
 ---
-layout: post
 title: CC2500 Project (Part 8) - Downsizing
 categories:
 - cc2500
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2012/02/cc2500-project-part-8-downsizing.html
-  dsq_thread_id: '614392338'
-  _edit_last: '1'
 ---
 I received my PCB's yesterday (From Laen at <a href="http://dorkbotpdx.org/wiki/pcb_order" target="_blank">dorkbotpdx.org</a>, of course!). I spent last night attempting to solder all the surface mount components (and for the most part, failing miserably). I need to get some solder paste and a small oven for the next batch...
 

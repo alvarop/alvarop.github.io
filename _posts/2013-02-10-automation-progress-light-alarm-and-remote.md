@@ -1,18 +1,10 @@
 ---
-layout: post
 title: Automation Progress - Light Alarm and Remote
 categories:
 - automation
 - cc2500
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  dsq_thread_id: '1076008920'
 ---
 If you haven't heard about my 'home automation' project, you should probably <a title="Beginnings of Home(ok, apartment) Automation" href="http://alvarop.com/2013/02/beginnings-of-homeok-apartment-automation/">read this first</a>.
 

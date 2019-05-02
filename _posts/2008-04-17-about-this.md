@@ -1,18 +1,9 @@
 ---
-layout: post
 title: About this...
 categories:
 - life
 - random
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2008/04/about-this.html
-  dsq_thread_id: '625200464'
 ---
 It's almost been a year since I set up this blog. I kind of stopped writing after I arrived from Russia.
 So far I have mostly been doing schoolwork and things like that.

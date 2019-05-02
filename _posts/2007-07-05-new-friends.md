@@ -1,17 +1,9 @@
 ---
-layout: post
 title: New Friends!
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/new-friends.html
 ---
 I am very tired so I won't write too much...
 

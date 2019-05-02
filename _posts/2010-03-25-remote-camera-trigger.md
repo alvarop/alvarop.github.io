@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Remote Camera Trigger
 categories:
 - projects
 - random
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/03/remote-camera-trigger.html
-  dsq_thread_id: '617772979'
 ---
 I made a remote trigger using an MCT6 Optocoupler, some buttons, LED's, and 2.5mm stereo jack.<br />This will hopefully be able to connect to a microcontroller to take pictures at set intervals. By using the 2.5mm connector, this device should also work with the Canon EOS DSLR cameras. (Which I don't have, but I'll find one to test this on...)
 

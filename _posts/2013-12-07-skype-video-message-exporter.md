@@ -1,18 +1,10 @@
 ---
-layout: post
 title: Skype Video Message Exporter
 categories:
 - projects
 tags:
 - skype
 - video message
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  dsq_thread_id: '2034082523'
 ---
 A few days ago, I found out that you can send video messages to people via Skype. Someone asked me if I knew of a way to export them from Skype. (That way you can watch them while offline, back them up for later, or whatever else you might want to do.)
 

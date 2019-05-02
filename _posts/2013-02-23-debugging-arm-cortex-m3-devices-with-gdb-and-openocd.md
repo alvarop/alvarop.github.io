@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Debugging ARM Cortex-M3 Devices with GDB and openOCD
 categories:
 - ARM
@@ -10,13 +9,6 @@ tags:
 - gcc
 - gdb
 - lpc1769
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  dsq_thread_id: '1101374613'
 ---
 
 After <a title="GCC-ARM for Cortex-M3 on Ubuntu" href="http://alvarop.com/2013/02/gcc-arm-for-cortex-m3-on-ubuntu/">getting the gcc-arm compiler working with the mbed</a>, I decided to take a look at my <a href="http://www.lpctools.com/lpc1768.lpcxpresso.aspx">LPCXpresso LPC1769</a> development board. The mbed is really easy to program. It mounts as a flash drive and you just drag and drop the binary file onto it. Unfortunately, that's it. There is no way to get any debug information out of it. The LPCXpresso, on the other hand, comes with a nice LPC-link board attached just for this purpose. Unfortunately(again), it only works with certain IDE's, like <a href="http://www.code-red-tech.com/">code\_red</a>. I cut the lpc-link board off and instead used a <a href="http://dangerousprototypes.com/docs/Bus_Blaster">BusBlaster </a>from Dangerous Prototypes along with <a href="http://openocd.sourceforge.net/">OpenOCD</a>. It took me a while to actually program the device, so I'll leave that for later. This post is about debugging!

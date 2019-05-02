@@ -1,18 +1,9 @@
 ---
-layout: post
 title: First Day of Class
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/first-day-of-class.html
-  dsq_thread_id: '639079594'
 ---
 Today was my first day of classes. I got about three hours of sleep last night, I woke up around 12 for no reason and couldn't fall back to sleep. Around 7am I took a shower and ate breakfast with Владимир. We then took two buses to get to school, it took about 15-20 minutes, which I believe was very fast. While I was in the bus stop, I saw some buses that were completely packed with people, thankfully, the ones we took were fairly empty.
 

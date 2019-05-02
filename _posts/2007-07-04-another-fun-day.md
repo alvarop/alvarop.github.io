@@ -1,17 +1,9 @@
 ---
-layout: post
 title: Another Fun Day
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/another-fun-day.html
 ---
 Today was an interesting day. Since it is July 4th, the group of study abroad students wanted to get together and have dinner. I was shown the location of the restaurant on a map, I already forgot the name, but it was French, and sounded funny.
 

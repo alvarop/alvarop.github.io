@@ -1,16 +1,7 @@
 ---
-layout: post
 title: Dinner with Family
 categories: []
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/dinner-with-family.html
-  dsq_thread_id: '649483441'
 ---
 Yesterday I set my alarm to turn on at 8am because on Saturday work starts at 10am. At 7:30am I was woken up my my host mother telling me I was going to miss work. Apparently she didn't hear me when I said work started later on Saturday, but oh well.
 

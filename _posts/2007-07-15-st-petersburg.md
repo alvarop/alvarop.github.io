@@ -1,17 +1,9 @@
 ---
-layout: post
 title: St. Petersburg
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/st-petersburg.html
 ---
 St. Petersburg was awesome! I just got back from four days over there, and I am very satisfied with what I saw.
 

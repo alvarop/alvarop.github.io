@@ -1,18 +1,9 @@
 ---
-layout: post
 title: CC2500 Project (Part 7) - More Lights and Power Supplies!
 categories:
 - cc2500
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2012/02/cc2500-project-part-7-more-lights-and.html
-  dsq_thread_id: '614650587'
 ---
 Here's another quick update (with lots of pictures and a video!) I ordered another RGB LED strip from adafruit in order to test how my system works with multiple devices. I don't have my PCB's yet (I shipped them to NY by mistake...), so I had to build everything on breadboards.
 

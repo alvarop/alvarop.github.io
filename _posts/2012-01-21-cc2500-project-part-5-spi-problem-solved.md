@@ -1,18 +1,9 @@
 ---
-layout: post
 title: CC2500 Project (Part 5) -- SPI Problem Solved!
 categories:
 - cc2500
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2012/01/cc2500-project-part-5-spi-problem.html
-  dsq_thread_id: '615577441'
 ---
 So I wrote last week about getting UART working on the MSP430G2533 but having major problems with the SPI interface... I was so frustrated that I caved in and purchased a <a href="http://www.saleae.com/logic/" target="_blank">Salae Logic</a> analyzer. It finally arrived today, and I had a chance to test it.
 

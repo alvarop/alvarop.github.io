@@ -1,16 +1,7 @@
 ---
-layout: post
 title: It's been almost a year...
 categories: []
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2008/05/its-been-almost-year.html
-  dsq_thread_id: '614392378'
 ---
 ...since I started this blog. The first post here is from May 11, 2007.
 

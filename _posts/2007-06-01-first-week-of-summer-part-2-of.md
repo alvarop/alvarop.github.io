@@ -1,17 +1,8 @@
 ---
-layout: post
 title: First Week of Summer (Part 2 of ?)
 categories:
 - life
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/05/first-week-of-summer-part-2-of.html
-  dsq_thread_id: '646848067'
 ---
 So today was an interesting day. In the morning I went to the Mexican consulate to get some papers for my cousin. She needs to transfer her courses taken here in the USA so they accept them in Mexico. When I got there (after 15 minutes of looking for a place to park.) the doors were closed, and there was like fifty people waiting outside. Apparently they lock the doors and only let people in every hour (That's how crowded it gets.) Fortunately I knew the name of the person I was looking for and someone told me to go to his office on the other building. Apparently the other part of the consulate (where the actual Consul works) is on the third floor of the building next to the crowded place where everyone goes. The office of the man I was looking for was next to the Consuls. I got the paper and went home.
 

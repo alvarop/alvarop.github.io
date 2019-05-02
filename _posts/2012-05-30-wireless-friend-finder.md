@@ -1,16 +1,9 @@
 ---
-layout: post
 title: Wireless Friend Finder!
 categories:
 - cc2500
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  dsq_thread_id: '708847224'
 ---
 The Wireless Friend Finder was my project for the <a href="https://twitter.com/jeriellsworth/status/202248450362978304">Bring-a-Hack dinner</a> after the 2012 Bay Area <a href="http://makerfaire.com/">Maker Faire</a>. I made it in a hurry, so it's not terribly well documented.
 

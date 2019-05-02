@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Utö Weekend
 categories:
 - finland
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/08/uto-weekend.html
-  dsq_thread_id: '640840624'
 ---
 {% include image.html
             img="/images/flckr/4875198435_e5e5292578_z.jpg"

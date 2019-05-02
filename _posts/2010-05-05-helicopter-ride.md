@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Helicopter Ride
 categories:
 - random
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/05/helicopter-ride.html
-  dsq_thread_id: '628547938'
 ---
 
 {% include image.html

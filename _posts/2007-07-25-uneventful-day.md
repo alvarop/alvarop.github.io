@@ -1,17 +1,9 @@
 ---
-layout: post
 title: Uneventful Day
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/uneventful-day.html
 ---
 Today was pretty uneventful. We still have no hot water, but this time, I got a small bucket with hot water from the kitchen in order to shower. I shaved and showered without suffering too much. After that, I had breakfast and went to school.
 

@@ -1,18 +1,9 @@
 ---
-layout: post
 title: I Hate Rain
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/i-hate-rain.html
-  dsq_thread_id: '625199665'
 ---
 It has been raining all day, and it's starting to get annoying. Today I woke up relatively late (for my standards) around 8:30am. I showered, had breakfast, did some homework, and read a magazine. Around 4pm, after we had lunch, I called my parents, who are now in NYC. They flew back from Europe yesterday, I hadn't called since I left the USA.
 

@@ -1,14 +1,7 @@
 ---
-layout: post
 title: CC2500 Project (Part 9) - Debugging
 categories: []
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  dsq_thread_id: '649472746'
 ---
 I just spent several hours debugging my <a href="https://github.com/alvarop/msp430-cc2500/">cc2500 radio libraries</a>. What changed you might ask? Two lines of code...
 

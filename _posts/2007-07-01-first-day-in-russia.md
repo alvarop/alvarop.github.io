@@ -1,18 +1,9 @@
 ---
-layout: post
 title: First day in Russia
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/first-day-in-russia.html
-  dsq_thread_id: '1570768965'
 ---
 I flew to NYC on Wednesday and stayed at a friends house. I met a few of her friends, went around the city, and had a lot of fun. On Friday, I took a cab to the airport and met with the people that were going to Russia.
 

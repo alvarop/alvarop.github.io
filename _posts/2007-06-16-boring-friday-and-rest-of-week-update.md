@@ -1,16 +1,8 @@
 ---
-layout: post
 title: Boring Friday ( and rest of week update)
 categories:
 - life
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/06/boring-friday-and-rest-of-week-update.html
 ---
 On, Wednesday my parents left for their trip around Europe. After taking them to the airport around 10, I went to get my allergy shots. It ended up taking about an hour, but I had nothing better to do at the time. After I got home, my friend called me to tell me we were meeting in Dadeland mall. I met her there, had lunch and hung out for a few hours. I hate malls, but I enjoy hanging out with friends so much, I don't mind them[the malls].
 

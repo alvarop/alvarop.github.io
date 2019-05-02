@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Smart Meter Fun (Part 1)
 categories:
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2012/02/smart-meter-fun-part-1.html
-  dsq_thread_id: '615614700'
 ---
 My current apartment has one of those 'smart' electric meters that can communicate with the power company directly over the power lines. A few months ago, I found out about a <a href="http://www.smartmetertexas.com/" target="_blank">smartmetertexas.com</a>, which lets you register and get logs of your power usage in 15 minute increments. I thought that was really awesome and signed up. The concept is really cool, but unfortunately, their user interface isn't that great. It does, however, allow you to export all of that information in one large csv file.
 

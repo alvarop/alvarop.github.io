@@ -1,16 +1,8 @@
 ---
-layout: post
 title: One Week Left!
 categories:
 - life
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/06/one-week-left.html
 ---
 So Saturday was in fact fun. I went to the movies with a few friends and watched Oceans 13. I had already seen it, but this is one of the movies that the second time makes much more sense. After that we all went to my house, a few more people arrived that had not gone to the movies. We played some board games, card games, and ate pizza. Around 2am they left, and I stayed up a little and called my parents around 2:30am. I figured since it was 8:30am in Germany, they would be awake. My dad was, and my mom had just started waking up, so it worked out nicely.
 

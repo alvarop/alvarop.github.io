@@ -1,18 +1,9 @@
 ---
-layout: post
 title: First Real Day of Work
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/first-real-day-of-work.html
-  dsq_thread_id: '862748490'
 ---
 Today I woke up around 7am as usual. I showered and had breakfast as usual. I went down to the bus stop and almost got into the wrong bus. I forgot I had to go straight to work, and I was getting on the one to school.
 

@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Last Day of Class
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  dsq_thread_id: '634372984'
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/last-day-of-class.html
 ---
 Today I went to school and took my final exam. I'm not sure how I did, but I don't think it was bad.<br />After class I went to work and arrived around 12pm. I worked for an hour and then had the lunch break. I went with some of my Russian co-workers to some underground cafeteria in a government building. I don't know how they found it, but the food is good and not expensive. After lunch, we went back to work.
 

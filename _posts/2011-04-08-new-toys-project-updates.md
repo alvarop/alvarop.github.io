@@ -1,17 +1,8 @@
 ---
-layout: post
 title: New Toys – Project Updates
 categories:
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2011/04/new-toys-project-updates.html
-  dsq_thread_id: '622585806'
 ---
 I have been working on a few projects recently. Two of them involve having custom PCBs made. I'm currently waiting for them to arrive. In order to prototype and test the circuits, I had to order a bunch of parts, so I took advantage of the buying spree to get myself some better tools.
 

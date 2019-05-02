@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Cold Water
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/07/cold-water.html
-  dsq_thread_id: '640377188'
 ---
 So today I woke up as usual and headed to the shower. When I opened the hot water, nothing came out, and I heard this very strange noise coming from the shower head. I thought for a few seconds and then decided to shower anyway. I still don't know if that was a good idea. The cold water here is extremely cold! After a few minutes, I was done showering, but I was also trembling like crazy. I then decided not to shave with cold water; maybe later I'll heat some on the stove and use that. I later found out that we will not be getting any hot water for three days, oh well… (In this building the hot water is supplied everyone. People don’t have their own heater in each apartment.)
 

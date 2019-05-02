@@ -1,17 +1,9 @@
 ---
-layout: post
 title: Using BusBlaster + openOCD on OSX Mavericks
 categories:
 - ARM
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  dsq_thread_id: ''
 ---
 I’ve been using the <a href="http://dangerousprototypes.com/">Dangerous Prototypes</a> <a href="http://dangerousprototypes.com/docs/Bus_Blaster">Bus Blaster</a> along with <a href="http://openocd.sourceforge.net/">openOCD</a> to program/debug my LPC1769 microcontroller. It’s been a while since I did anything, so when I tried again last week and couldn’t get it to work, I was slightly confused. The only change (that I was aware of) was an OSX upgrade from Mountain Lion to Mavericks.
 

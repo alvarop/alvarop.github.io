@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Another Day (I'm out of ideas)
 categories:
 - russia
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2007/08/another-day-im-out-of-ideas.html
-  dsq_thread_id: '862584334'
 ---
 So I didn't really get much rest last night.<br />After I posted the last blog entry, I was called to the kitchen to have some drinks and snacks.<br />Another guest came in, a young guy who I later found out was a friend of the family. He spoke Swedish too, so I had no idea what was happening. He also spoke perfect English, so I was able to talk later. Again, we had vodka and the ladies had some other drink. I'm glad the vodka bottle was not full to start with because they wouldn't take no for an answer. I ended up going to bed around 12am again.
 

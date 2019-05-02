@@ -1,18 +1,9 @@
 ---
-layout: post
 title: CC2500 Project (Part 6) - Reorganizing
 categories:
 - cc2500
 - projects
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2012/01/cc2500-project-part-6-reorganizing.html
-  dsq_thread_id: '614392320'
 ---
 This post is mostly about software, so I'll keep it short.
 

@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Out of Order
 categories:
 - finland
 - travel
 tags: []
-status: publish
-type: post
-comments: true
-meta:
-  blogger_blog: blog.alvarop.com
-  blogger_author: ''
-  blogger_permalink: /2010/06/out-of-order.html
-  dsq_thread_id: '667910944'
 ---
 {% include image.html
             img="/images/blgr/s200/4737676111_15b36ab2c4_b.jpg"
