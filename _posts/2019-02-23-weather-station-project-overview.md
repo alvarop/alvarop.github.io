@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Weather Station Project Overview
 categories:
 - projects

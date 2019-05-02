@@ -1,7 +1,6 @@
 ---
-layout: page
-permalink: /about/index.html
-title: About
+permalink: /about/
+title: "About"
 categories: []
 tags: []
 status: publish
