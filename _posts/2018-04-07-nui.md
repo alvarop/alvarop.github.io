@@ -5,7 +5,6 @@ categories:
 - projects
 tags: []
 status: publish
-type: post
 comments: true
 ---
 
