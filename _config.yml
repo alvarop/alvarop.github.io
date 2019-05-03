@@ -64,17 +64,11 @@ author:
   job:
   bio: "..."
   email:
-  disqus-shortname: alvarosblog
   twitter: alvaroprieto
-  facebook:
-  google:
-    plus:
-    verify:
   bing-verify:
   github: alvarop
   linkedin: alvaroops
   youtube: apg88
-  flickr: apg88
 
 defaults:
   # _posts
