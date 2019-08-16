@@ -24,14 +24,18 @@ Here's my talk at the Hackaday Superconference in 2015:
 
 There's also a Hackaday article about some of my [ProtoX reverse engineering work][8].
 
+
 I gave a talk for students in the [Design_Code_Build][10] program at the [Computer History Museum][11]:
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQfIiqJCglA" frameborder="0" allowfullscreen></iframe></div>
+
 
 Here's my talk about prototyping/debugging tools for the [Hardware Developers Didactic Galactic][12] meetup:
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BQbZaITPuaA" frameborder="0" allowfullscreen></iframe></div>
 
+
 Here's a talk about my cheese cave controller:
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xQfpvQGZDhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Here's a talk about my weather station project:
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/u2_glYECyDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></div>
