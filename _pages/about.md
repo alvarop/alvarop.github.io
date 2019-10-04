@@ -38,7 +38,7 @@ Here's a talk about my cheese cave controller:
 
 
 Here's a talk about my weather station project:
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/u2_glYECyDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/u2_glYECyDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 [1]: http://letterboxd.com/alvarop/
