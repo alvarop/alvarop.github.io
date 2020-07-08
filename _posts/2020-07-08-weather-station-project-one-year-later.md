@@ -198,5 +198,4 @@ The final change is to split the pressure and humidity sensors and somehow shiel
 In the end, I might just dust off my CAD skills and just make a 3D printed enclosure that leaves the temperature/humidity sensor exposed while shielding most of the circuit, along with the pressure sensor.
 
 That’s all I have for now. As always, all the design files are [on github](https://github.com/alvarop/chaac). If you have any questions/comments feel free to email me or message me on twitter [@alvaroprieto](https://twitter.com/alvaroprieto).
-t
 
