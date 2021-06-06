@@ -107,7 +107,7 @@ This final design is the one that actually went to DEFCON. During the actual com
 
 I started this project with the goal of learning about motor control and mechanical design. Having little-to-no experience with either, I’m pretty happy with the result. I’ll try to do another write up about the firmware/software, which was also lots of fun. For all of the project photos, check out the [flickr album][2].
 
-[0]: /2014/02/laser-turret-progress/
+[0]: /2014/02/laser-turret-progress
 [1]: https://github.com/SolidCode/MCAD
 [2]: https://www.flickr.com/photos/apg88/sets/72157649440445931/
 [3]: https://forum.defcon.org/showthread.php?t=14025
