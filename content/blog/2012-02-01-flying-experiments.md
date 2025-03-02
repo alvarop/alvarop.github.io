@@ -1,11 +1,10 @@
 ---
 title: Flying Experiments
 date: 2012-02-01
-categories:
+tags:
 - life
 - random
 - time-lapse
-tags: []
 ---
 I managed to go flying last Friday after work. Since no one else was able to come along, I decided to do some experiments with the camera.
 

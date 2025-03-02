@@ -1,9 +1,8 @@
 ---
 title: Residence Permit
 date: 2010-05-08
-categories:
+tags:
 - random
-tags: []
 ---
 
 ![passport](/images/blgr/passport.jpg)

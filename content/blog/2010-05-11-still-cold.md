@@ -1,9 +1,8 @@
 ---
 title: Still Cold
 date: 2010-05-11
-categories:
+tags:
 - random
-tags: []
 ---
 I woke up this morning to a room temperature of 10C (50F). I think the someone turned off the house heater. Either way, I was not prepared for that. I need to get my thicker bed sheets.
 

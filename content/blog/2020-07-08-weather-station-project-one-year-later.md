@@ -1,9 +1,8 @@
 ---
 title: Weather Station Project - One Year Later
 date: 2020-07-08
-categories:
+tags:
 - projects
-tags: []
 ---
 
 It's been over a year since I wrote about my weather station project. A lot of things have happened since, so I figured I would post an update.

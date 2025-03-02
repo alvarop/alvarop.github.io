@@ -1,9 +1,8 @@
 ---
 title: One Down, Four to Go!
 date: 2007-05-26
-categories:
+tags:
 - life
-tags: []
 ---
 My first year of college is officially over. This last week of finals was probably one of the worst I have had. Not because of the actual exams, but because my body decided to wake up extremely early and not fall asleep until very late. On Tuesday, I woke up nice and early at 5:30am, I took my exam, and then around 2pm or so (I don't quite remember.) I took a two hour nap. As you probably don't know, I don't work well with naps, I usually feel worse after I wake up. Unfortunately, after that nap, I didn't fall asleep until around 2am. I had an exam at 10am the next morning, so I was up around 7am, again, not by choice. I somehow managed to take my physics exam without falling asleep and later made my formula sheet for the math exam on Thursday.
 

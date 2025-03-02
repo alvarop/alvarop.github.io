@@ -1,9 +1,8 @@
 ---
 title: New Workbench!
 date: 2012-05-27
-categories:
+tags:
 - projects
-tags: []
 ---
 I finally decided to get a dedicated electronics workbench. I had been working on my computer desk until now, but it wasn't quite working out. The first problem was having to clean up my electronics gear all the time, so I could have space to work comfortably and have other stuff out. The second was that it's a glass desk, so I had to be really careful not to break it (No hammers!).
 

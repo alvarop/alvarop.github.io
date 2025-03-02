@@ -1,9 +1,8 @@
 ---
 title: Helicopter Ride
 date: 2010-05-05
-categories:
+tags:
 - random
-tags: []
 ---
 
 ![img1](/images/blgr/IMG_0665.jpg)

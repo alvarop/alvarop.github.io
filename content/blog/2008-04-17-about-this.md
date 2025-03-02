@@ -1,10 +1,9 @@
 ---
 title: About this...
 date: 2008-04-17
-categories:
+tags:
 - life
 - random
-tags: []
 ---
 It's almost been a year since I set up this blog. I kind of stopped writing after I arrived from Russia.
 So far I have mostly been doing schoolwork and things like that.

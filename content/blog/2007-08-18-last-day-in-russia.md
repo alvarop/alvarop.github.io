@@ -1,10 +1,9 @@
 ---
 title: Last Day in Russia
 date: 2007-08-18
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today I took a train to St. Petersburg. I left around 8am and arrived around 11:30am.
 

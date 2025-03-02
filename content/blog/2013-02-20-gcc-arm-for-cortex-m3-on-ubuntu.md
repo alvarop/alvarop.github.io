@@ -1,10 +1,9 @@
 ---
 title: GCC-ARM for Cortex-M3 on Ubuntu
 date: 2013-02-20
-categories:
+tags:
 - ARM
 - projects
-tags: []
 ---
 Don't want to read though this post? Just want the code, go get it from my <a href="https://github.com/alvarop/arm-gcc-barebones">github repo</a>!
 

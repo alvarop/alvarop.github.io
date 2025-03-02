@@ -1,10 +1,9 @@
 ---
 title: Biking to SFO
 date: 2012-11-24
-categories:
+tags:
 - life
 - travel
-tags: []
 ---
 I recently<a href="http://www.flysfo.com/web/page/orphan/bicycle-parking/"> found out</a> that the San Francisco International Airport (SFO) offers bike parking for up to 14 days. I decided to try it out during the thanksgiving break just for fun (with the added bonus of saving on driving/parking or taxi costs).
 

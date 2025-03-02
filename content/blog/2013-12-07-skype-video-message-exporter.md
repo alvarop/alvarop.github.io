@@ -1,9 +1,8 @@
 ---
 title: Skype Video Message Exporter
 date: 2013-12-07
-categories:
-- projects
 tags:
+- projects
 - skype
 - video message
 ---

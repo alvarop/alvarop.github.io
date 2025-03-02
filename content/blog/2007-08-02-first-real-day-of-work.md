@@ -1,10 +1,9 @@
 ---
 title: First Real Day of Work
 date: 2007-08-02
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today I woke up around 7am as usual. I showered and had breakfast as usual. I went down to the bus stop and almost got into the wrong bus. I forgot I had to go straight to work, and I was getting on the one to school.
 

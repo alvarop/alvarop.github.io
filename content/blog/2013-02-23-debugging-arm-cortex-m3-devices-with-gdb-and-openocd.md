@@ -1,10 +1,9 @@
 ---
 title: Debugging ARM Cortex-M3 Devices with GDB and openOCD
 date: 2013-02-23
-categories:
+tags:
 - ARM
 - projects
-tags:
 - arm
 - cortex-m3
 - gcc

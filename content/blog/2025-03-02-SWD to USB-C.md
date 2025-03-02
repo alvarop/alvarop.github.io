@@ -1,9 +1,8 @@
 ---
 title: SWD to USBC
 date: 2025-03-02
-categories:
+tags:
 - projects
-tags: []
 ---
 
 Have you ever wanted to debug your microcontroller over USB-C?

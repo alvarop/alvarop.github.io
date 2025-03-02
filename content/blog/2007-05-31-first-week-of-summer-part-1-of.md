@@ -1,9 +1,8 @@
 ---
 title: First Week of Summer (Part 1 of ?)
 date: 2007-05-31
-categories:
+tags:
 - life
-tags: []
 ---
 Well, the first week of summer isn't quite over yet, but I needed to come up with a title for the post.
 

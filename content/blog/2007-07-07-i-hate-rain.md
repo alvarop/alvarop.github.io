@@ -1,10 +1,9 @@
 ---
 title: I Hate Rain
 date: 2007-07-07
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 It has been raining all day, and it's starting to get annoying. Today I woke up relatively late (for my standards) around 8:30am. I showered, had breakfast, did some homework, and read a magazine. Around 4pm, after we had lunch, I called my parents, who are now in NYC. They flew back from Europe yesterday, I hadn't called since I left the USA.
 

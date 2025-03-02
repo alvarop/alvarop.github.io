@@ -1,9 +1,8 @@
 ---
 title: Quick Update!
 date: 2010-08-21
-categories:
+tags:
 - travel
-tags: []
 ---
 ![blah](/images/blgr/IMG_2408.jpg)
 

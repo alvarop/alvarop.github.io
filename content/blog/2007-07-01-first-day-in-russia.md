@@ -1,10 +1,9 @@
 ---
 title: First day in Russia
 date: 2007-07-01
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 I flew to NYC on Wednesday and stayed at a friends house. I met a few of her friends, went around the city, and had a lot of fun. On Friday, I took a cab to the airport and met with the people that were going to Russia.
 

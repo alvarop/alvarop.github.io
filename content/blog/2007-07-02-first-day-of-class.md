@@ -1,10 +1,9 @@
 ---
 title: First Day of Class
 date: 2007-07-02
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today was my first day of classes. I got about three hours of sleep last night, I woke up around 12 for no reason and couldn't fall back to sleep. Around 7am I took a shower and ate breakfast with Владимир. We then took two buses to get to school, it took about 15-20 minutes, which I believe was very fast. While I was in the bus stop, I saw some buses that were completely packed with people, thankfully, the ones we took were fairly empty.
 

@@ -1,10 +1,9 @@
 ---
 title: CC2500 Project (Part 6) - Reorganizing
 date: 2012-01-21
-categories:
+tags:
 - cc2500
 - projects
-tags: []
 ---
 This post is mostly about software, so I'll keep it short.
 

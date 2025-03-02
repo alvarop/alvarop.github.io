@@ -1,10 +1,9 @@
 ---
 title: Suolijärvi
 date: 2010-07-15
-categories:
+tags:
 - finland
 - travel
-tags: []
 ---
 
 ### June 24th

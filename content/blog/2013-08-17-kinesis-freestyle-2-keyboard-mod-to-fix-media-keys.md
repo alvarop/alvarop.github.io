@@ -1,9 +1,8 @@
 ---
 title: Kinesis Freestyle 2 Keyboard 'Mod' (to Fix Media Keys)
 date: 2013-08-17
-categories:
+tags:
 - projects
-tags: []
 ---
 Soon after I bought my <a href="http://www.kinesis-ergo.com/freestyle2_mac.htm">Kinesis Freestyle 2 Keyboard</a>, I noticed that the media keys (next/previous song) did not work with Spotify on OSX. The strange part is that they work just fine on iTunes. I decided to email the Kinesis tech support to see if they had a solution.
 

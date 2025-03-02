@@ -1,11 +1,10 @@
 ---
 title: Automation Progress - Light Alarm and Remote
 date: 2013-02-10
-categories:
+tags:
 - automation
 - cc2500
 - projects
-tags: []
 ---
 If you haven't heard about my 'home automation' project, you should probably <a title="Beginnings of Home(ok, apartment) Automation" href="http://alvarop.com/2013/02/beginnings-of-homeok-apartment-automation/">read this first</a>.
 

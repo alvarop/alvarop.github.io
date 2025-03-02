@@ -1,10 +1,9 @@
 ---
 title: Work, Finally!
 date: 2007-07-27
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 This morning, the sky was cloudy and the forecast said there was going to be rain throughout the day. I put on my jacket and went to school. After two hours or so, I looked out the window and the sky was blue and the sun was out. After Russian class, we went to some stores looking for a flag or something and later went to a museum with a lot of golden artifacts. They were mostly church related, like gold covered bibles, crosses, and other similar things.
 

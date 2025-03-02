@@ -1,9 +1,8 @@
 ---
 title: Boring Friday ( and rest of week update)
 date: 2007-06-16
-categories:
+tags:
 - life
-tags: []
 ---
 On, Wednesday my parents left for their trip around Europe. After taking them to the airport around 10, I went to get my allergy shots. It ended up taking about an hour, but I had nothing better to do at the time. After I got home, my friend called me to tell me we were meeting in Dadeland mall. I met her there, had lunch and hung out for a few hours. I hate malls, but I enjoy hanging out with friends so much, I don't mind them[the malls].
 

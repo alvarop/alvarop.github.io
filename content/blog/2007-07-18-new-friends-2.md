@@ -1,11 +1,10 @@
 ---
 title: New Friends
 date: 2007-07-18
-categories:
+tags:
 - random
 - russia
 - travel
-tags: []
 ---
 Today was awesome. I did the usual in the morning and went to class. After Russian history class we all walked to a local university to meet some students who are learning English. On our way there we were greeted by a group of students who walked with us back to the school. We went to a very nice classroom with several computers and some amazing LCD monitors. In the middle was a sort of oval-ish table where we all sat. We introduced ourselves and separated into smaller groups to talk.
 

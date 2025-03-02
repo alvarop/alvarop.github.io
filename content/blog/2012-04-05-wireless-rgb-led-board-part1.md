@@ -1,10 +1,9 @@
 ---
 title: Wireless RGB LED Board (Part 1)
 date: 2012-04-05
-categories:
+tags:
 - cc2500
 - projects
-tags: []
 ---
 I've been working on my wireless RGB LED boards for a while now. I finally made an all-in-one PCB that includes an msp430, a cc2500 radio module, 3 MOSFETs for driving the LED strips and a 3.3v linear regulator. I know it's not the most efficient setup, but right now I want to focus on software and need hardware that just works.
 

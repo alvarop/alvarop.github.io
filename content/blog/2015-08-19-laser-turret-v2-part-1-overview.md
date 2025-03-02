@@ -1,9 +1,9 @@
 ---
 title: Laser Turret Project v2 - Part 1 - Overview
 date: 2015-08-19
-categories:
-- projects
 tags: [defconbots]
+tags:
+- projects
 ---
 
 After last years [DEFCONBOTS][0] competition, I decided to try something completely different. (Check out [last year’s robot][1].) Having to move the entire turret/camera/laser around is incredibly inefficient. If the goal is to shoot things with lasers, the only thing moving should be the laser beam.

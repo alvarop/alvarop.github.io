@@ -1,10 +1,9 @@
 ---
 title: Utö Weekend
 date: 2010-08-09
-categories:
+tags:
 - finland
 - travel
-tags: []
 ---
 ![Near the cottage.](http://www.flickr.com/photos/apg88/4875198435)
 

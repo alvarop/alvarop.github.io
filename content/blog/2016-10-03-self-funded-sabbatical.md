@@ -1,10 +1,9 @@
 ---
 title: (Self-funded) Sabbatical
 date: 2016-10-03
-categories:
+tags:
 - travel
 - life
-tags: []
 ---
 
 As you might, or might not have, heard, I left my last job in May. It wasn’t an easy choice., but after thinking about it for a very long time, I realized I wasn’t happy where I was and needed a break. When I had to explain my “employment status” to people, I decided that the term self-funded sabbatical was the most appropriate. Looking back almost 5 months later, It’s one of the best decisions I’ve made.

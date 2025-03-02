@@ -1,9 +1,8 @@
 ---
 title: USB Cable Tester
 date: 2023-07-17
-categories:
+tags:
 - projects
-tags: []
 ---
 
 Ever wonder if your USB C cable is USB2 or USB3? Do you have some charge-only cables hiding in a box just waiting for the right moment to spoil your project plans?!

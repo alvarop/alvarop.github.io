@@ -1,10 +1,9 @@
 ---
 title: New Friends!
 date: 2007-07-05
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 I am very tired so I won't write too much...
 

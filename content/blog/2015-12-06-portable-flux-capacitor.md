@@ -1,9 +1,9 @@
 ---
 title: Portable Flux Capacitor
 date: 2015-12-06
-categories:
-- projects
 tags: [projects]
+tags:
+- projects
 ---
 
 This year's work holiday party was Back to the Future themed. I didn't have any good costume ideas, so with a week to go, I decided to build a portable flux capacitor to bring instead.

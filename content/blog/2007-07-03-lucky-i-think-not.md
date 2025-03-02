@@ -1,10 +1,9 @@
 ---
 title: Lucky? I think not.
 date: 2007-07-03
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today has been a very interesting day. As usual, I woke up around 5:30am, showered, ate breakfast, hung out and left around 8:10am to go to school. In class I learned some new words, how to conjugate almost every verb, and some other stuff. In the art class, I finished my very ugly painting from yesterday and started working on a new one. The teacher showed us some sample works that are traditional of this area of Russia, and told us to either copy one or make our own. I decided to take ideas from the pre-made ones and give them a touch of my own crazy imagination (or lack thereof.) The sketch has a castle with the sun shining on it, a house with a cloud and rain over it, some mountains, and two fish. I started coloring it and realized I cannot mix colors to save my life. I wanted a light green, mixed some green with white, but managed to get the ugliest color possible. I then tried to get a light brown by mixing brown and white... another miserable failure. After I saw how the teacher mixed colors I realized that putting water into the mix made a big difference, finally I got some decent colors. Unfortunately it was too late for one of the mountains, it has that very ugly green, oh well.
 

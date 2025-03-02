@@ -1,10 +1,9 @@
 ---
 title: Another Fun Day
 date: 2007-07-04
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today was an interesting day. Since it is July 4th, the group of study abroad students wanted to get together and have dinner. I was shown the location of the restaurant on a map, I already forgot the name, but it was French, and sounded funny.
 

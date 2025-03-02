@@ -1,9 +1,8 @@
 ---
 title: New Toys – Project Updates
 date: 2011-04-08
-categories:
+tags:
 - projects
-tags: []
 ---
 I have been working on a few projects recently. Two of them involve having custom PCBs made. I'm currently waiting for them to arrive. In order to prototype and test the circuits, I had to order a bunch of parts, so I took advantage of the buying spree to get myself some better tools.
 

@@ -1,9 +1,8 @@
 ---
 title: Mid-Exam-Week Update
 date: 2007-05-22
-categories:
+tags:
 - random
-tags: []
 ---
 So tomorrow I have my Digital Systems exam at 12:30. I'm supposed to memorize some stuff for the test, hopefully it will come to me in my dreams because I am really bad at memorizing stuff. On Saturday I had my Russian exam, that one was not as bad as I expected it to be. The written portion was the hardest because it required (guess what!) memorizing all the grammar rules and words. The speaking was not so bad, thanks to my friend Anel that helped me practice the day before. 
 

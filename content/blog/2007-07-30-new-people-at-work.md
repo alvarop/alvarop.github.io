@@ -1,10 +1,9 @@
 ---
 title: New People at Work
 date: 2007-07-30
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 After Russian class today, I headed straight to work. I got there around 12:45pm so they told me to come back at 2:30pm. There is an hour and a half break at 1pm, so it was pointless to start working then. I walked around the kremlin and then decided to get some food at a small restaurant near the dig. I was there for a while and around 2:15pm, I headed back to work.
 

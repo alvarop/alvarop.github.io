@@ -1,10 +1,9 @@
 ---
 title: Getting to Finland
 date: 2010-07-01
-categories:
+tags:
 - finland
 - travel
-tags: []
 ---
 
 ### Wednesday May 26th

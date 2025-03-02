@@ -1,9 +1,8 @@
 ---
 title: First Days of School
 date: 2007-09-04
-categories:
+tags:
 - life
-tags: []
 ---
 Yesterday (Monday) was not too bad. I started by going to Physics class at 8am. I then got back to the apartment to figure out what I had or didn't have. I went to WalMart to buy some food and other things, then to OfficeMax to buy some more stuff. I tried to hurry because I thought I had my kayaking class at 4pm. I showed up a few minutes early, no one was there. After a while, I decided to check online to see if there had been any notes about the class posted after I last checked. There were. The class doesn't start until September 21st...
 

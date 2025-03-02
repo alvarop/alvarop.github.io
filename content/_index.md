@@ -41,9 +41,9 @@ Here's a talk about my weather station project:
 [1]: http://letterboxd.com/alvarop/
 [2]: https://www.youtube.com/user/apg88
 [3]: http://www.flickr.com/photos/apg88/sets/
-[4]: /categories/#travel
-[5]: /categories/#projects
-[6]: /categories/#random
+[4]: /tags/travel
+[5]: /tags/projects
+[6]: /tags/random
 [7]: http://embedded.fm/episodes/130
 [8]: http://hackaday.com/2014/12/10/reverse-engineering-the-proto-x-quadcopter-radio/
 [9]: /files/Alvaro.Prieto.Resume.pdf

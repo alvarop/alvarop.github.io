@@ -1,9 +1,8 @@
 ---
 title: PIR Sensor Comparison
 date: 2012-09-03
-categories:
-- projects
 tags:
+- projects
 - passive infrared
 - PIR
 - sensor

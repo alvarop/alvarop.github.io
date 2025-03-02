@@ -1,11 +1,10 @@
 ---
 title: Beginnings of Home(ok, apartment) Automation
 date: 2013-02-02
-categories:
+tags:
 - automation
 - cc2500
 - projects
-tags: []
 ---
 I've been neglecting my projects for a while, but I finally decided to stop being lazy and started working on them again. Several of my old posts deal with msp430's and <a href="http://alvarop.com/category/cc2500/">cc2500's</a>, but they're mostly hardware updates and examples of changing lights to music. Now that I have a semi-stable platform and decent libraries, I figured I might as well do something useful with them.
 

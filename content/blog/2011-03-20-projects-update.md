@@ -1,9 +1,8 @@
 ---
 title: Projects Update
 date: 2011-03-20
-categories:
+tags:
 - projects
-tags: []
 ---
 I’ve decided to actually write about what I’ve been up to in the past few years. Today, I’m going to start with a project from the summer of 2006. I decided to go to <a href="http://www.defcon.org/">DEFCON</a> and take part in the <a href="http://defconbots.org/">defconbots </a>competition. The main goal of the competition was to build a device that shot targets using autonomous control only. You can see the competition page <a href="http://defconbots.org/defcon14/">here</a> and the <a href="http://defconbots.org/defcon14/final_results.php">results</a>. Unfortunately, I didn’t start working on it until two or three weeks before.
 Here’s a brief description of how it happened. Since I was right out of high school, my budget was extremely limited. I decided to get a webcam mount with two servos and a USB servo controller, along with a really cheap BB gun.

@@ -1,9 +1,8 @@
 ---
 title: Quick summary of the week.
 date: 2007-06-09
-categories:
+tags:
 - life
-tags: []
 ---
 On Tuesday I went to get my wisdom teeth extraction evaluation. Looks like I have one of the worst cases, my wisdom teeth are so badly positioned that taking them out risks permanent nerve damage and/or sinus damage. It gets better, my surgery is going to be the day after I get back from Russia! Nothing says welcome back better than a morning surgery.
 

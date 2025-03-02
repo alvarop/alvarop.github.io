@@ -1,10 +1,9 @@
 ---
 title: Helsinki Weekend
 date: 2010-07-26
-categories:
+tags:
 - finland
 - travel
-tags: []
 ---
 ![](/images/flckr/4826812111_13bf7599d8_b.jpg)
 

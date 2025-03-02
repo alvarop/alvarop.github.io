@@ -1,9 +1,8 @@
 ---
 title: Early Morning Update
 date: 2007-06-24
-categories:
+tags:
 - life
-tags: []
 ---
 So I woke up around 4am and could not fall asleep. I'm bored.
 

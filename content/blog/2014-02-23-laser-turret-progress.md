@@ -1,9 +1,8 @@
 ---
 title: Laser Turret Progress
 date: 2014-02-23
-categories:
-- projects
 tags:
+- projects
 - defconbots
 - laser
 - opencv

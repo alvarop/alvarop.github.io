@@ -1,9 +1,8 @@
 ---
 title: Slow Motion Roller Derby
 date: 2011-03-27
-categories:
+tags:
 - projects
-tags: []
 ---
 I recently purchased a Casio EX-FH100 digital camera. Unlike most other point-and-shoots, this one can do high-speed video. It ranges from regular 720p HD video at 30fps to high-speed 120 fps(640 x 480), 240fps (448 x 336), 420fps (224 x 168), 1000fps (224 x 64). The resolution on the fastest two is pretty bad, but it's still fun to mess around with.
 

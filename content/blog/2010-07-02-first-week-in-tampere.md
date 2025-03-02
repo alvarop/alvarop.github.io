@@ -1,10 +1,9 @@
 ---
 title: First Week in Tampere
 date: 2010-07-02
-categories:
+tags:
 - finland
 - travel
-tags: []
 ---
 ### May 29th and 30th
 

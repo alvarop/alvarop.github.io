@@ -1,10 +1,9 @@
 ---
 title: Out of Order
 date: 2010-06-28
-categories:
+tags:
 - finland
 - travel
-tags: []
 ---
 ![](/images/blgr/4737676111_15b36ab2c4_b.jpg)
 

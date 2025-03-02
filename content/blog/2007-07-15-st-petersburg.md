@@ -1,10 +1,9 @@
 ---
 title: St. Petersburg
 date: 2007-07-15
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 St. Petersburg was awesome! I just got back from four days over there, and I am very satisfied with what I saw.
 

@@ -1,11 +1,10 @@
 ---
 title: West Texas Thanksgiving
 date: 2011-11-30
-categories:
+tags:
 - projects
 - time-lapse
 - travel
-tags: []
 ---
 So I had a few days off work for thanksgiving... Most people usually visit their family during that time, but due to a late change of plans, I ended up doing something else.
 

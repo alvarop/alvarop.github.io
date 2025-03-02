@@ -1,10 +1,9 @@
 ---
 title: Walk in the Park
 date: 2007-07-21
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today was not very interesting, but it was not very boring either. After I woke up and had breakfast, I did some of my homework for class and decided to go out. While waiting for the bus, some old lady started speaking to me and making strange gestures with her hand. I told her I did not understand her, but she kept talking. Once I got on the bust, she followed, sat down, and started speaking to half the people on the bus, it was quite strange. After the bust ride, I ended up in a big shopping center. I walked around for a while and noticed 90% of the stores were womens clothing. I found a music/movie/books store and spent some time there. I bought a book and some discs. I also managed to make the cashier lady angry. The ATM only gave me 1000 ruble bills, and she kept asking if I had smaller ones, I said no a few times until she took it and walked away. She came back with my change and a not very happy face. Oh well, I can't make everyone happy... I then walked around some more trying to find the place where I entered so I could leave and ended up in a huge furniture store. I never realized how long the mall was, and the stupid furniture store was just as long. Once I found my way out, I bought a soda and headed back home.
 

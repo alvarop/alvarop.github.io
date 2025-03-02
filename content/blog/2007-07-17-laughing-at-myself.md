@@ -1,9 +1,8 @@
 ---
 title: Laughing at Myself
 date: 2007-07-17
-categories:
+tags:
 - random
-tags: []
 ---
 I don't usually start laughing in the middle of the street, but on some occasions, I just have to do it.<br />On a normal day, my alarm wakes me up at 6:50am, I shower, go on the computer, have breakfast, and then around 8am I go outside to the bus stop. Around 8:25am I get to school and classes start at 9am.
 

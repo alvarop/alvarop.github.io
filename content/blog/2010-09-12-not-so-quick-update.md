@@ -1,9 +1,8 @@
 ---
 title: Not-so-Quick Update
 date: 2010-09-12
-categories:
+tags:
 - travel
-tags: []
 ---
 I still haven’t written about my Svalbard trip. Thankfully, I took some notes while I was there, so I will not forget the important details by the time I do write it.
 

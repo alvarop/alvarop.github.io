@@ -1,10 +1,9 @@
 ---
 title: Wireless RGB LED Board (Part 2)
 date: 2012-05-06
-categories:
+tags:
 - cc2500
 - projects
-tags: []
 ---
 I finally managed to make a quick video of the build process for my wireless RGB LED controller. I used two cameras to do a time-lapse of the build. Unfortunately, they were using different frame-rates, so it took me a bit to get both of them synchronized. If you're curious how the setup looked, here's a (bad) picture of it:
 

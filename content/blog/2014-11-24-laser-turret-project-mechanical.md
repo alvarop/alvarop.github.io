@@ -1,9 +1,9 @@
 ---
 title: Laser Turret Project - Mechanical
 date: 2014-11-24
-categories:
-- projects
 tags: [defconbots]
+tags:
+- projects
 ---
 
 The [last turret update][0] (with actual content) happened back in February. I continued working on it through August, taking it both to Maker Faire and DEFCON. I had planned on writing about it back then, but never really got around to it… This post covers the mechanical aspects of the project. I’ll write about the electrical/firmware/software some other time.

@@ -1,10 +1,9 @@
 ---
 title: CC2500 Project (Part 8) - Downsizing
 date: 2012-02-15
-categories:
+tags:
 - cc2500
 - projects
-tags: []
 ---
 I received my PCB's yesterday (From Laen at <a href="http://dorkbotpdx.org/wiki/pcb_order" target="_blank">dorkbotpdx.org</a>, of course!). I spent last night attempting to solder all the surface mount components (and for the most part, failing miserably). I need to get some solder paste and a small oven for the next batch...
 

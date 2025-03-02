@@ -1,9 +1,8 @@
 ---
 title: First Week of Summer (Part 3 of 3)
 date: 2007-06-04
-categories:
+tags:
 - life
-tags: []
 ---
 So yesterday marked one week of me being in Miami. So far it's been fun (except for the doctors and stuff) but it looks like it will get better. <br />Friday was a lot of fun. I found out a friend was leaving Miami on Sunday and thought it would be nice to go get dinner or watch a movie with her and some friends. I started talking to people around mid day and by 7pm we started arriving to Panera's at Sunset Place. I don't think any of us knew there was a Paneras there, but somehow I found it online and convinced them it existed. The plan was to eat dinner there and watch Knocked Up at 8:30. About nine people ended up there, which was awesome, we sat there talking until about 9pm, we considered going to the 9:30 show, but it was sold out. Three people had to leave, the rest of us went to a friends house and watched the movie Inside Man, which [in my opinion] is really good (and confusing until the end.)
 

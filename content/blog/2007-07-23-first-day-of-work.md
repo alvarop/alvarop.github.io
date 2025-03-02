@@ -1,10 +1,9 @@
 ---
 title: First Day of Work
 date: 2007-07-23
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today went like most other days, in the morning that is. I woke up, showered, ..., and eventually finished history class. After that, I walked to the bus stop and took a bus that took me near the Kremlin. After that, I walked for 10-15 minutes to get to the job site. It is an archaeological dig. When I got there, I walked down to where the people were, stood there, and had a confused look. Soon there was two people talking to me. One of them was sort of like a supervisor, and the other one spoke English. He explained to me what to do, have me a little shovel, a bucket, and a small wooden stool. My job was to clean a large piece of wood and it's surroundings. I would get the dirt off, make sure there wasn't anything interesting in it, such as bones or pottery, and put it (the dirt) in the bucket. There was a box were we put the other stuff.
 

@@ -1,10 +1,9 @@
 ---
 title: Long(?) Update
 date: 2007-06-13
-categories:
+tags:
 - life
 - random
-tags: []
 ---
 So I haven't posted since Friday, well it was technically Saturday, but whatever. On Saturday I was going to go to a friends house to dinner with my family. They live in Miramar, which is almost an hour drive from my house. Since it was a far drive anyway, we [my family] decided to leave early and go to <a href="http://www.simon.com/mall/default.aspx?ID=1262">Sawgrass Mall</a> to get some clothes. There are a bunch of outlet stores, so it is a good place to shop, but it is also the 2nd most visited place in Florida next to Magic Kingdom. I hate shopping, but I have to do it every once in a while in order to have clothes! After a few hours there, we went to our friends house and had an amazing Italian dinner. Around 12:00am we headed back home.
 

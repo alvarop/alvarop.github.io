@@ -1,10 +1,9 @@
 ---
 title: Last Full Sunday
 date: 2007-08-12
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today I woke up fairly early, even thought I went to bed late. I spent some time on the computer while the rest of the family woke up. I didn't really do anything interesting. I listened to music, read some stuff, and relaxed. 
 

@@ -1,9 +1,8 @@
 ---
 title: Switch to Jekyll
 date: 2014-05-25
-categories:
+tags:
 - projects
-tags: []
 ---
 
 I just switched to using [Jekyll][jekyll] instead of Wordpress for this site. I started hosting it on a VPS and don't want to have to deal with all the apache/php/mysql security issues. Now I just use Jekyll to make a static site and run it on nginx (the nginx part was just for fun).

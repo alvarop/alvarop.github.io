@@ -1,10 +1,9 @@
 ---
 title: Quick Update
 date: 2007-08-22
-categories:
+tags:
 - life
 - travel
-tags: []
 ---
 I haven't forgotten about the blog.
 

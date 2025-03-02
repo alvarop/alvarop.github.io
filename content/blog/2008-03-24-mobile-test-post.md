@@ -1,9 +1,8 @@
 ---
 title: Mobile Test Post
 date: 2008-03-24
-categories:
+tags:
 - random
-tags: []
 ---
 ![](/images/blgr/PIC-0029_1-762580.jpg)
 

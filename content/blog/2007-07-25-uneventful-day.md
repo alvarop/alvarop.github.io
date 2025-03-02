@@ -1,10 +1,9 @@
 ---
 title: Uneventful Day
 date: 2007-07-25
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Today was pretty uneventful. We still have no hot water, but this time, I got a small bucket with hot water from the kitchen in order to shower. I shaved and showered without suffering too much. After that, I had breakfast and went to school.
 

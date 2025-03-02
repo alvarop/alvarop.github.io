@@ -1,9 +1,8 @@
 ---
 title: Weather Station Project Overview
 date: 2019-02-23
-categories:
+tags:
 - projects
-tags: []
 ---
 
 I'm not sure exactly when I became interested in building a weather station. It was at least year or two ago... I remember seeing the [Project Curacao 2](https://www.switchdoc.com/2017/03/project-curacao2-raspberrypi-and-arduino-based-environmental-station-part-1/) post on the [SwitchDoc Labs](https://www.switchdoc.com) page and thinking it would be fun to build something like it, but much more integrated. I've also never worked on "outdoor" projects and want to learn more about weatherproofing, solar charging, etc... (What I *really* want to do eventually, is build an [ultrasonic anemometer](http://www.dl1glh.de/ultrasonic-anemometer.html), but I told myself I won't start down that rabbit hole until I have a fully working weather station.)

@@ -1,10 +1,9 @@
 ---
 title: Stupid Fish
 date: 2007-08-08
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Yesterday was not very eventful, except for the stupid fish. I was going through the dirt (wearing my dish washing gloves) and felt a sharp sting on one finger. It ends up that a sharp fish bone broke through the glove and stung my finger. The top broke and stayed in my finger. It took me about 10 minutes to get it out. Now whenever I grab anything, it hurts. I hope I don't get some 1000 year old disease from the thing, that sure would confuse doctors.
 

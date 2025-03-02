@@ -1,10 +1,9 @@
 ---
 title: Last Day in Novgorod
 date: 2007-08-17
-categories:
+tags:
 - russia
 - travel
-tags: []
 ---
 Yesterday was my last day of work. Other than that, all I did was buy a few gifts for people.
 
