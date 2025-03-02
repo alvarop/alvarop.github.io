@@ -2,7 +2,7 @@
 title: "Alvaro's Blog"
 ---
 
-Hi! My name is Alvaro. I'm an Electrical Engineer living in California. My main interests include electronics, [watching movies][1], flying, photography(time-lapse and high-speed), and traveling. If you're interested, you can find my [resume here][9].
+Hi! My name is Alvaro. I'm an engineer living in California. My main interests include electronics, [watching movies][1], flying, photography(time-lapse and high-speed), and traveling. If you're interested, you can find my [resume here][9].
 
 ### Stuff I make
 
