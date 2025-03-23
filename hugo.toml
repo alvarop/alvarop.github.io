@@ -1,9 +1,10 @@
 # Basic config
-baseURL = "https://alvarop.com"
-theme = "hugo-simple"
+baseURL = "alvarop.com"
+theme = "poison"
 languageCode = "en"                # zh-Hans
 title = "Alvaro's Blog"
-copyright = "© 2024 Alvaro Prieto"
+copyright = "© 2025 Alvaro Prieto"
+pluralizelisttitles = false
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -14,13 +15,19 @@ capitalizeListTitles = false
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 # ignoreErrors = ["error-disable-taxonomy"]
-[taxonomies]
-tag = "tags"
+
+#[permalinks]
+#posts = "/:year/:month/:slug/"
+#tags = "/tags/:slug"
+#categories = "/categories/:slug"
 
 [permalinks]
-blog = "/:year/:month/:slug/"
-tags = "/tags/:slug"
-categories = "/categories/:slug"
+  [permalinks.page]
+    posts = '/:year/:month/:slug/'
+    tutorials = '/training/:slug/'
+  [permalinks.section]
+    posts = '/'
+    tutorials = '/training/'
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -34,35 +41,74 @@ noClasses = true
 style = "catppuccin-mocha"
 
 [params]
-title = "Alvaro's Blog"
+brand = "Alvaro's Blog"
 description = "Alvaro's Blog"
 favicon = "images/favicon.png"
-dateFormat = "2006-01-02"
-hideMadeWithLine = false
-hideRSSLink = false
+# dateFormat = "2006-01-02"
+
+front_page_content = ["posts"]
+
+menu = [{Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Posts", URL = "/posts/"},]
+
+# Links to your socials.  Comment or delete any you don't need/use. 
+email_url = "mailto://blog@alvaroprieto.com"
+github_url = "https://github.com/alvarop"
+linkedin_url = "hhttps://www.linkedin.com/in/alvaroops/"
+mastodon_url = "https://mastodon.social/@alvaro"
+youtube_url = "https://www.youtube.com/c/%C3%81lvaroPrieto"
+
+rss_icon = true
+rss_section = "posts"
+
+# Hex colors for your sidebar.
+moon_sun_background_color = "#515151"   # default is #515151
+moon_sun_color = "#FFF"                 # default is #FFF
+sidebar_a_color = "#FFF"                # default is #FFF
+sidebar_bg_color = "#202020"            # default is #202020
+sidebar_h1_color = "#FFF"               # default is #FFF
+sidebar_img_border_color = "#515151"    # default is #515151
+sidebar_p_color = "#909090"             # default is #909090
+sidebar_socials_color = "#FFF"          # default is #FFF
+
+# Hex colors for your content in light mode.
+code_color = "#000"                     # default is #000
+code_background_color = "#E5E5E5"       # default is #E5E5E5
+code_block_color = "#FFF"               # default is #FFF
+code_block_background_color = "#272822" # default is #272822
+content_bg_color = "#FAF9F6"            # default is #FAF9F6
+date_color = "#515151"                  # default is #515151
+link_color = "#268BD2"                  # default is #268BD2
+list_color = "#5A5A5A"                  # default is #5A5A5A
+post_title_color = "#303030"            # default is #303030
+table_border_color = "#E5E5E5"          # default is #E5E5E5
+table_stripe_color = "#F9F9F9"          # default is #F9F9F9
+text_color = "#222"                     # default is #222
+
+# Hex colors for your content in dark mode
+code_color_dark = "#FFF"                        # default is #FFF
+code_background_color_dark = "#515151"          # default is #515151
+code_block_color_dark = "#FFF"                  # default is #FFF
+code_block_background_color_dark = "#272822"    # default is #272822
+content_bg_color_dark = "#121212"               # default is #121212
+date_color_dark = "#9A9A9A"                     # default is #9A9A9A
+link_color_dark = "#268BD2"                     # default is #268BD2
+list_color_dark = "#9D9D9D"                     # default is #9D9D9D
+post_title_color_dark = "#DBE2E9"               # default is #DBE2E9
+table_border_color_dark = "#515151"             # default is #515151
+table_stripe_color_dark = "#202020"             # default is #202020
+text_color_dark = "#EEE"                        # default is #EEE
+
 
 [params.author]
 name = "Alvaro Prieto"
 email = "blog@alvaroprieto.com"
 fediverse = "@alvaro@mastodon.social"
 
-[[menu.main]]
-name = "Home"
-pageRef = "/"
-weight = 10
-[[menu.main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 20
 
-[services.rss]
-limit = 42
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
 
 [pagination]
-pagerSize = 16
-
-[outputs]
-# Generate RSS for home only.
-section = ["html"]
-taxonomy = ["html"]
-term = ["html"]
+pagerSize = 10
