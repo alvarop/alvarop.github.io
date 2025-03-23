@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "alvarop.com"
+baseURL = "https://alvarop.com"
 theme = "poison"
 languageCode = "en"                # zh-Hans
 title = "Alvaro's Blog"
