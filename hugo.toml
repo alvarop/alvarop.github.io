@@ -6,6 +6,9 @@ title = "Alvaro's Blog"
 copyright = "© 2025 Alvaro Prieto"
 pluralizelisttitles = false
 
+relativeURLs = false
+canonifyURLs = true
+
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
@@ -54,7 +57,7 @@ menu = [{Name = "About", URL = "/about/", HasChildren = false},
 # Links to your socials.  Comment or delete any you don't need/use. 
 email_url = "mailto://blog@alvaroprieto.com"
 github_url = "https://github.com/alvarop"
-linkedin_url = "hhttps://www.linkedin.com/in/alvaroops/"
+linkedin_url = "https://www.linkedin.com/in/alvaroops/"
 mastodon_url = "https://mastodon.social/@alvaro"
 youtube_url = "https://www.youtube.com/c/%C3%81lvaroPrieto"
 
