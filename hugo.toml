@@ -6,8 +6,7 @@ title = "Alvaro's Blog"
 copyright = "© 2025 Alvaro Prieto"
 pluralizelisttitles = false
 
-relativeURLs = false
-canonifyURLs = true
+relativeURLs = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
