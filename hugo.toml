@@ -6,8 +6,6 @@ title = "Alvaro's Blog"
 copyright = "© 2025 Alvaro Prieto"
 pluralizelisttitles = false
 
-relativeURLs = true
-
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
@@ -15,21 +13,20 @@ enableRobotsTXT = true
 capitalizeListTitles = false
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
+#disableKinds = ["taxonomy"]
 # ignoreErrors = ["error-disable-taxonomy"]
 
-#[permalinks]
-#posts = "/:year/:month/:slug/"
-#tags = "/tags/:slug"
-#categories = "/categories/:slug"
-
 [permalinks]
+  tags = "/tags/:slug"
   [permalinks.page]
     posts = '/:year/:month/:slug/'
-    tutorials = '/training/:slug/'
+    
   [permalinks.section]
-    posts = '/'
-    tutorials = '/training/'
+    posts = '/posts/'
+    
+
+  #tags = "/tags/:slug"
+  #categories = "/categories/:slug"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -51,7 +48,8 @@ favicon = "images/favicon.png"
 front_page_content = ["posts"]
 
 menu = [{Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/"},]
+        {Name = "Posts", URL = "/posts/"},
+        {Name = "Tags", URL = "/tags/"}]
 
 # Links to your socials.  Comment or delete any you don't need/use. 
 email_url = "mailto://blog@alvaroprieto.com"
