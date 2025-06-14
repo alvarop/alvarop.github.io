@@ -6,7 +6,7 @@ Hi! My name is Alvaro. I'm an engineer living in California.
 
 ### Stuff I make
 
-Most of the content on here consists of [my blog][13].
+Most of the content on here consists of my blog.
 
 Other places you can find me online are:
 * [Mastodon][14]
@@ -67,7 +67,6 @@ If you're interested, you can find my [resume here][9].
 [10]: http://www.computerhistory.org/education/designcodebuild/
 [11]: http://www.computerhistory.org
 [12]: https://www.meetup.com/Hardware-Developers-Didactic-Galactic/
-[13]: /blog
 [14]: https://mastodon.social/@alvaro
 [15]: https://bsky.app/profile/alvarop.com
 [16]: https://unnamedre.com
