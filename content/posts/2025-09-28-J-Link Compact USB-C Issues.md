@@ -1,3 +1,10 @@
+---
+title: J-Link Compact USB-C Issues
+date: 2025-09-28
+tags:
+- projects
+---
+
 ![J-Link Compact](images/jlink/J-Link Compact USB-C Issues_1.jpg)
 
 Do you have a J-Link Compact and have noticed it doesn't work with some USB C to C cables? I do, and I did, so I decided to investigate...
