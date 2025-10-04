@@ -73,7 +73,7 @@ There it is. Both resistors are connected together and both CC lines are connect
 
 I'm not quite sure of the logic behind this. I guess they saved one ESD protection diode? But then they used 2 resistors when 1 would suffice. It wouldn't have worked if they used two of the recommended 5.1kΩ, so they probably used two 10kΩ resistors. This reminds me about a similar issue the original Raspberry Pi 4 had with it's power port. [Take a look at the great Hackaday write up for a much better explanation.](https://hackaday.com/2019/07/16/exploring-the-raspberry-pi-4-usb-c-issue-in-depth/)
 
-Either way, I expect better design out of a $498 US (or $748 for the PLUS model) device! A correct implementation would cost them a few cents at most... These days, more and more cables are eMarked and this will cause endless frustration to users. Hopefully this post alleviates some of that.
+Either way, I expect better design out of a \$498 US (or \$748 for the PLUS model) device! A correct implementation would cost them a few cents at most... These days, more and more cables are eMarked and this will cause endless frustration to users. Hopefully this post alleviates some of that.
 
 ## Workarounds
 Don't use eMarked cables... If you don't have a cable tester, look for Thunderbolt/displayport labels as well as 100W/240W markings. Those will always be eMarked.
